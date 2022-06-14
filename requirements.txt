@@ -3,4 +3,5 @@ torch==1.7.0
 transformers==4.0.0
 pytorch-lightning==1.1.0
 streamlit
+click==8.0.4
 pyyaml==5.4.1
